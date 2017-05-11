@@ -2,25 +2,25 @@
 
 # Dynatrace Eclipse Integration Plugin [![Build Status](https://travis-ci.org/Dynatrace/Dynatrace-Eclipse-Integration-Plugin.svg?branch=master)](https://travis-ci.org/Dynatrace/Dynatrace-Eclipse-Integration-Plugin) 
 
-* Download Latest Release: https://github.com/Dynatrace/Dynatrace-Eclipse-Integration-Plugin/releases
-* Eclipse Plugin on the Dynatrace Community: https://community.dynatrace.com/community/display/DL/Dynatrace+Eclipse+Integration+Plugin 
-
 The Dynatrace Eclipse Integration Plugin enables you to:
 * launch applications with an injected Dynatrace AppMon Agent directly from Eclipse IDE
 * retrieve & display the key architectural metrics (such as number of SQL queries, external API calls, exceptions and log messages) from your tests
 * perform look-ups of sources files and methods from applications under diagnosis in Dynatrace Application Monitoring
 
+The latest release is available at: https://github.com/Dynatrace/Dynatrace-Eclipse-Integration-Plugin/releases
+Eclipse Plugin page on the Dynatrace Community: https://community.dynatrace.com/community/display/DL/Dynatrace+Eclipse+Integration+Plugin 
+
 #### Table of Contents
 
 * [Installation](#installation)  
- * [Prerequisites](#prerequisites)  
+  * [Prerequisites](#prerequisites)  
 * [Configuration](#configuration)
- * [Global Settings](#global-settings)
- * [Run Configurations](#run-configurations)
+  * [Global Settings](#global-settings)
+  * [Run Configurations](#run-configurations)
 * [Using the Eclipse Integration Plugin](#using-the-eclipse-integration-plugin)
- * [Launcher](#launcher)
- * [Test Result](#test-results)
- * [Source Code Lookup](#source-code-lookup)
+  * [Launcher](#launcher)
+  * [Test Results](#test-results)
+  * [Source Code Lookup](#source-code-lookup)
 *  [Problems? Questions? Suggestions?](#problems-questions-suggestions)
 * [Additional Resources](#additional-resources)
   * [Dynatrace AppMon Documentation](#dynatrace-appmon-documentation)
