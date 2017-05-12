@@ -7,9 +7,6 @@ The Dynatrace Eclipse Integration Plugin enables you to:
 * retrieve & display the key architectural metrics (such as number of SQL queries, external API calls, exceptions and log messages) from your tests
 * perform look-ups of sources files and methods from applications under diagnosis in Dynatrace Application Monitoring
 
-The latest release is available at: https://github.com/Dynatrace/Dynatrace-Eclipse-Integration-Plugin/releases
-Eclipse Plugin page on the Dynatrace Community: https://community.dynatrace.com/community/display/DL/Dynatrace+Eclipse+Integration+Plugin 
-
 #### Table of Contents
 
 * [Installation](#installation)  
@@ -36,7 +33,7 @@ Eclipse Plugin page on the Dynatrace Community: https://community.dynatrace.com/
 
 Find further information in the [Dynatrace community](https://community.dynatrace.com/community/display/DL/Dynatrace+Eclipse+Integration+Plugin).
 
-* Download the [latest plugin](https://github.com/Dynatrace/Dynatrace-Eclipse-Integration-Plugin/releases/download/6.3.4/Dynatrace_Eclipse_Integration_6.3.4.2020.zip)
+* Download the [latest plugin archive](https://github.com/Dynatrace/Dynatrace-Eclipse-Integration-Plugin/releases/
 * unzip the archive
 * in Eclipse, click on "Help" / "Install New Software..."
 * Add.., Local...
