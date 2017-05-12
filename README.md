@@ -5,7 +5,7 @@
 The Dynatrace Eclipse Integration Plugin enables you to:
 * launch applications with an injected Dynatrace AppMon Agent directly from Eclipse IDE
 * retrieve & display the key architectural metrics (such as number of SQL queries, external API calls, exceptions and log messages) from your tests
-* perform look-ups of sources files and methods from applications under diagnosis in Dynatrace Application Monitoring
+* perform lookups of source code files and methods from applications under diagnosis in Dynatrace AppMon
 
 #### Table of Contents
 
