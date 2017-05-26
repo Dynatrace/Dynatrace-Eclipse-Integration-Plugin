@@ -33,7 +33,7 @@ The Dynatrace Eclipse Integration Plugin enables you to:
 
 ### Use Eclipse marketplace
 
-![marketplace entry](/img/conf/eclipse_marketplace-dynatrace_eclipse-integration-plugin)
+![marketplace entry](/img/conf/eclipse_marketplace-dynatrace_eclipse-integration-plugin.png)
 
 ### Download from github
 
