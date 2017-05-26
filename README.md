@@ -37,7 +37,7 @@ The Dynatrace Eclipse Integration Plugin enables you to:
 
 ### Download from github
 
-* Download the [latest plugin .zip archive](https://github.com/Dynatrace/Dynatrace-Eclipse-Integration-Plugin/releases/
+* Download the [latest plugin .zip archive](https://github.com/Dynatrace/Dynatrace-Eclipse-Integration-Plugin/releases/)
 * in Eclipse, click on "Help" / "Install New Software..."
 * Add.., Archive...
 * select the downloaded archive
